@@ -10,7 +10,7 @@ Exercicies from the 5 months Full Stack Development program at Cubos Academy
   
 #### 2. Front-end
 
-  + [HTML & CSS - my first website](lhttps://github.com/sarahdialmeida/cubos_academy/blob/master/aula_04_fe)
+  + [HTML & CSS - my first website](https://github.com/sarahdialmeida/cubos_academy/blob/master/aula_04_fe)
   +
   +
 
