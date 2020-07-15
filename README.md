@@ -1,21 +1,21 @@
-# cubos_academy
+# Cubos Academy  
 Exercicies from the 5 months Full Stack Development program at Cubos Academy
 
-### Summary
+## Summary
 
-1. Back-end
+#### 1. Back-end
   +
   +
   +
   
-2. Front-end
+#### 2. Front-end
 
   + [HTML & CSS - my first website](link here)
   
   +
   +
 
-3. JavaScript
+#### 3. JavaScript
   +
   +
   +
