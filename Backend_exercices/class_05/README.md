@@ -2,7 +2,9 @@
 
 ###### tags: `backend` `fullstackprogram`
 
-#### Sistema de Banco de Dados
+#### // Sistema de Banco de Dados
+
+##### Schema [link aqui](https://drive.google.com/drive/folders/1cVAKBb53d4hKAwd-aXwgiX4tM4iJirdb)
 
 ##### // Exercício 1  
 
@@ -15,6 +17,8 @@
 ##### // Exercício 2  
 
 ```sql
+
+
 
 ```
 
