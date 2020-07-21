@@ -1,5 +1,5 @@
 # Cubos Academy  
-Exercicies from the 5 months Full Stack Development program at Cubos Academy
+Exercices from the 5 months Full Stack Development program at Cubos Academy
 
 ## Summary
 
