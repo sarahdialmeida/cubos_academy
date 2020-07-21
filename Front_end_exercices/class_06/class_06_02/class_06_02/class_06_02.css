@@ -1,0 +1,90 @@
+
+
+body{
+    background:  #4f5a51;
+}
+
+.sport-scoreboard{
+    width: 600px;
+    height: 310px;
+    background: #C4C4C4;
+    border: 1px solid #7E8D85;
+    border-radius: 4px;
+    margin-left: 420px;
+    margin-top: 50px;
+    
+}
+
+.teams{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 16px;
+    padding-top: 16px;
+}
+
+.team-a{
+    margin-left: 138px;
+    
+}
+
+
+.team-b{
+    margin-left: 220px;
+    
+}
+
+.score{
+    font-family: Michroma;
+    color: #000000;
+    padding-top: 16px;
+}
+
+.score-left{
+    margin-left: 54px;
+    font-size: 96px;
+}
+
+
+.score-right{
+    margin-left: 18px;
+    font-size: 96px;
+}
+
+.plus{
+    margin-left: 40px;
+    margin-right: 10px;
+    font-size: 40px;
+}
+
+
+.hr{
+    color: #30323D; 
+    margin-top: 16px;
+
+}
+
+.score-bottom{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 32px;
+    padding: 20px;
+    
+}
+
+.bottom-left{
+    margin-left: 128px;
+    
+}
+
+
+.bottom-right{
+    margin-left: 260px;
+   
+}
+
+/*.vertical-line{
+    width: 1px;
+    height: 50px;
+    left: 640px;
+}
+*/

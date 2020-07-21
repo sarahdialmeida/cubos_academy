@@ -3,8 +3,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
-
 
 }
 body {
@@ -55,9 +53,9 @@ p {
 }
 
 .rodape {
-background: #e8c547;
-padding: 8px 16px;
-text-align: center;
+    background: #e8c547;
+    padding: 8px 16px;
+    text-align: center;
 
 }
 span{

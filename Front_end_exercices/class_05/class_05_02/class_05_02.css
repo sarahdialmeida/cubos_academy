@@ -1,0 +1,109 @@
+* {
+    font-family: "Montserrat","sans-serif";
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    .header{
+        background: #f1f1f1;
+        padding: 15px 40px;
+        padding-left: 20px;
+      
+    }
+    
+    .logo {
+        color: #FF6A28;
+        font-weight: 700;
+        display: inline;
+        margin-left: 65px;
+        
+    }
+    
+    
+    .links-header {
+       display: inline;
+       margin-left: 60px;
+     
+    }
+    
+    a {
+        text-decoration: none;
+        color: #333;
+        font-size: 16px;    
+        padding: 20px;
+    
+    }
+    
+    body {
+        background: #FF6A28;
+    }
+
+    .main-area {
+        background: #f5f5f5;
+        width: 1450px;
+        height: 700px;
+        left: 54px;
+        top: 104px;
+        border-radius: 4px;
+        margin-top: 50px;
+        margin-left: 70px;
+        margin-right: 70px;
+    
+    }
+    
+    h4{
+        padding-top: px;
+        padding-left: 20px;
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 29px;
+        display: inline;
+        
+    }
+    
+    img{
+        padding-left: 300px;
+        padding-top: 60px;
+       
+    }
+    
+    p{
+        margin-left: 20px;
+        padding-top: 10px;
+       
+    }
+    
+    
+    h3{
+        padding-top: 30px;
+        margin-left: 18px;
+    }    
+
+    img {
+        height: 50%;
+        width: 50%;
+        display: block;
+        margin-left: 150px;
+        margin-right: auto 
+
+}
+
+h5{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 21px;
+    display: inline;
+    padding-left: 20px;
+    color:  #777777;
+    padding-top: 20px;
+
+
+}
+        /*como centralizar a imagem em relaçao à main area?*/
+     
+
