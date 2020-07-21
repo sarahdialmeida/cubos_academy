@@ -18,7 +18,11 @@
 
 ```sql
 
-
+select distinct regiao, 
+count(pais)
+from countries
+group by regiao
+order by regiao;
 
 ```
 
