@@ -1,0 +1,17 @@
+
+* {
+    box-sizing: border-box;
+  }
+.quadrado {
+    width: 250px;
+    height: 250px;
+    /*display: inline-block;*/
+    border: 20px solid black;
+    border-radius: 20px;
+    background-color: #d2d2d2;
+    font-size: 32px; 
+    padding-top: 85px;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 300px;
+  }

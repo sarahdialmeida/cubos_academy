@@ -1,0 +1,45 @@
+.squares {
+margin-left: 650px;
+margin-top: 300px;
+
+}
+
+.square-1{
+    width: 100px; 
+    height: 100px; 
+    background-color: red;
+    display: inline-block;
+    border: 12px solid black;
+    border-radius: 10px;
+  
+}
+
+.square-2{
+    width: 100px; 
+    height: 100px; 
+    background-color: blue;
+    display: inline-block;
+    border: 12px solid black;
+    border-radius: 10px;
+    
+}
+
+.square-3{
+    width: 100px; 
+    height: 100px; 
+    background-color: yellow;
+    display: inline-block;
+    border: 12px solid black;
+    border-radius: 10px;
+    
+    
+}
+
+.square-4{
+    width: 100px; 
+    height: 100px; 
+    background-color: green;
+    display: inline-block;
+    border: 12px solid black;
+    border-radius: 10px;
+}

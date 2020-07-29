@@ -1,0 +1,17 @@
+
+
+*{
+    margin-top: 10px;
+}
+ul{
+    margin-left: 20px;
+}
+
+h3{
+    margin-left: 45px;
+    margin-top: 60px;
+}
+
+h3:first-child{
+    margin-top: 0;
+}

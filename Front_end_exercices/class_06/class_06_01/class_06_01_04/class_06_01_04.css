@@ -1,0 +1,22 @@
+*{
+    margin-top: 100px;
+    margin-left: 2px;
+}
+
+div{
+height: 150px;
+width: 150px;
+border-radius: 10px;
+background-color: #162c5e;
+display: inline-block;
+
+}
+
+div:first-of-type{
+    background-color: #fe0078;
+}
+div:last-of-type {
+    background-color: #fe0078;
+}
+
+/* a imagem nao está centralizada como eu gostaria */
