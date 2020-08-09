@@ -1,0 +1,90 @@
+/* .box-shadow{
+    margin: 25vh 25vh;
+    width: 50vw;
+    height: 50vh;
+    background-color: green;
+    box-shadow: 20px 20px 0px rgba(0, 0, 0, 0.25);
+} 
+
+/* vh 	Relative to 1% of the height of the viewport*; vw 	Relative to 1% of the width of the viewport* */
+
+/* eu posso usar flex grow e flex shrink ao mesmo tempo? */
+/* 
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+/* 
+.container{
+    min-height: 100vh;
+    padding: 8px;
+    background-color: hotpink;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: nowrap;  /* quando eu nao quero que se quebre uma ,linha 
+}  
+
+/* 
+.square {
+    width: 30vh; 
+    height: 30vh;
+    margin: 4px;
+    color: white;
+    padding: 1em;
+    flex: 0 2 auto;
+    background-color: indigo;
+    border-radius: 3vh;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    flex-basis: 40vh; /* tem prioridade
+} */
+
+/*
+.container{
+     justify-content: space-evenly; */
+    /* justify-content: space-between; */
+    /* justify-content: flex-start; esse é por defeito */
+    /* justify-content: center; */
+
+    /*align-items: stretch; 
+   com o heigh no pai ele nao funciona */
+
+    /* align-items: space-around; 
+}
+
+/* 
+.square:nth-child(2){
+    align-self: center;
+    background-color: royalblue;
+    /* order: 1; 
+}*/ 
+
+
+body> .header, body> .footer {
+    background-color: #009ee2;
+    display: flex;
+    padding: 1em 2em;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body> .header{
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
+
+body> .header img{
+    max-height: 40px;
+}
+
+body> .header a{
+    text-decoration: none;
+    color: ;
+}
+
