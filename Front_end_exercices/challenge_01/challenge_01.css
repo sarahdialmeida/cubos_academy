@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -36,7 +36,7 @@ a{
 
 }
 
-.menu1 {
+.menu1{
     display: flex;
     flex-direction: row;
     font-size: 14px;
@@ -53,7 +53,6 @@ ul{
     list-style:none;
     
 }
-
 
 .columns{
     display: flex;
@@ -106,17 +105,16 @@ ul{
     margin-top: 40px;
 }
 
-
 .menu3 li a{
     display: flex;
     justify-content: space-between;
 }
 
-hr {
+hr{
     border: 1px dashed #EEEEEE;  
 }
 
-.card-publicidade {
+.card-publicidade{
     background-color: #EEEEEE;
     color: #545454;
     margin-top: 20px;
@@ -128,12 +126,12 @@ hr {
     justify-content: center;
 }
 
-.buttom {
+.buttom{
     appearance: none;
     background-color: transparent;
     font-size: 14px;
     text-align: right;
-    margin-top: 24px;
+    margin-top: 24px; 
 }
 
 .buttom a{
@@ -145,7 +143,7 @@ hr {
 
 }
 
-a:hover {
+a:hover{
     color: #FE0078;
 }
 
@@ -153,7 +151,7 @@ hr:hover{
     color: #FE0078;
 }
 
-.menu1 li {
+.menu1 li{
     justify-content: space-between;
     margin-right: 48px;
     margin-left: 48px;
@@ -212,6 +210,7 @@ p{
     margin: 8px 0 14px;
     
 }
+
 .main-area-card{
     background-size: cover;
     position: relative;

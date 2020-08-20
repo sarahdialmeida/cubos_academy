@@ -1,0 +1,1 @@
+const entrada = entrada.querySelector("entrada");
