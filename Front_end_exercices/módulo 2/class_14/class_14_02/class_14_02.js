@@ -1,5 +1,5 @@
 let tamanhoFonte = 18;
-const fonte = document.querySelector("fonte");
+const fonte = document.querySelector(".fonte");
 const aumentar = document.querySelector(".aumentar");
 const diminuir = document.querySelector(".diminuir");
 

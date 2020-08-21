@@ -1,5 +1,18 @@
 .fonte{
-    font-size: 18px;
+    font-size: 16px;
     font-family: monospace;
+    background-color: rgb(223, 89, 111);
+    display: inline-block;
+}
 
+.aumentar{
+    font-size: 14px;
+    font-family: monospace;
+    display: inline-block;
+}
+
+.diminuir{
+    font-size: 14px;
+    font-family: monospace;
+    display: inline-block;
 }
