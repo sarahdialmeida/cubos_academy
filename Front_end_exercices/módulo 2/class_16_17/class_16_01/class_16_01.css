@@ -1,0 +1,63 @@
+body {
+	margin: 1em;
+	max-width: 50ch;
+}
+
+h1{
+  background-color:pink;
+  display: inline-block;
+  font-family:monospace;
+  font-size: 40px;
+}
+
+label{
+  font-family:monospace; 
+  font-size:18px;
+}
+
+hr {
+	margin: 1em 0;
+	border: 0;
+	border-top: 2px solid orange;
+ 
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul li {
+	display: flex;
+	align-items: center;
+  font-family:monospace;
+}
+
+ul li input {
+	margin-right: 0.5em;
+}
+
+ul li button {
+	margin-left: auto;
+    font-size: 14px;
+}
+
+ button {
+    font-size: 16px;
+}
+
+.done li span {
+	text-decoration: line-through;
+  font-size: 18px;
+}
+
+li {
+	margin-top: 0.25em;
+ 
+}
+
+input{
+ 	border: 2px solid blue;
+
+}

@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="class_15_01.js"></script>
     <title>Calculadora IMC</title>
 </head>
 <body>
@@ -15,18 +14,19 @@
     <br>
     <br>
     <label style="font-family:'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Geneva, Verdana, sans-serif"> Peso (em quilogramas)
-        <input type = "number"> 
+        <input class="peso" type = "number"> 
     </label> 
     
     <br>
     <br>
     <label style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
         Altura (em metros)
-        <input type = "number"> 
+        <input class="altura" step="0.01" min="0" max="2" type = "number"> 
     </label>
     <br>
     <br>
     <button> Enviar
     </button>
+    <script src="class_15_01.js"></script>
 </body>
 </html>

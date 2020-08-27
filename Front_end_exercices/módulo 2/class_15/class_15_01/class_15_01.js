@@ -1,6 +1,13 @@
-const input = document.querySelector("input");
+const inputAltura = document.querySelector(".altura");
+const inputPeso = document.querySelector(".peso");
 const button = document.querySelector("button");
 
 button.addEventListener("click", () => {
-    alert (input.valueAsNumber);
+    const imc = (
+        inputPeso.valueAsNumber / (
+            inputAltura.valueAsNumber * inputAltura.valueAsNumber
+        )
+    ).toFixed(2);
+
+    alert(imc);
 });
