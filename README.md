@@ -1,5 +1,5 @@
 # Cubos Academy  
-This repository contains the projects from my <strong>5 months Full Stack Development Program at Cubos Academy</strong>
+This repository contains the projects from Cubos Academy's <strong>5 months Full Stack Development Program.</strong>
 
 ## Summary
 
