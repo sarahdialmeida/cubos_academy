@@ -1,0 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap");
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  background: palevioletred;
+  box-sizing: border-box;
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Sora", sans-serif;
+  overflow: hidden;
+  font-size: 1.6rem;
+}
+
+h1 {
+	font-size: 3.6rem;
+}
+  
+.login {
+	display: flex;
+	align-items: center;
+}
+  
+label {
+	margin-right: 2rem;
+	
+}
+
+header button {
+	background: #1c4a2f;
+	border: none;
+	border-radius: 0.6rem;
+	width: 12rem;
+	height: 2.8rem;
+	color: white;
+	
+	font-weight: bold;
+}
+  
+
+header {
+  color: white;
+  display: flex;
+  background: #2b7148;
+  align-items: center;
+  justify-content: center;
+  
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+              0 2px 4px rgba(0,0,0,0.07), 
+              0 4px 8px rgba(0,0,0,0.07), 
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07), 
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.h-centro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 1300px;
+  height: 80px;
+}
+
+
+input {
+  margin-left: 2rem;
+  height: 2.6rem;
+  border-radius: 0.6rem;
+  border: none;
+}
+
+
+.centro {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  min-width: 1300px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.tabelaDeRodadas {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  background: rgb(209, 183, 183);
+  min-width: 36rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+              0 2px 4px rgba(0,0,0,0.07), 
+              0 4px 8px rgba(0,0,0,0.07), 
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07), 
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.titulo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-height: 6rem;
+  background: rgb(138, 185, 157);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+              0 2px 4px rgba(0,0,0,0.07), 
+              0 4px 8px rgba(0,0,0,0.07), 
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07), 
+              0 32px 64px rgba(0,0,0,0.07);
+}
+
+.titulo h1 {
+  color:blue;
+  font-size: 3rem;
+  min-width: 200px;
+  text-align: center;
+}
+
+.titulo button {
+  border: none;
+  background: none;
+  margin: 0.5rem;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.jogos {
+  display: flex;
+  flex-direction: row;
+}
+
+.jogo {
+  margin-right: 2rem;
+  margin-left: 2rem;
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 360px;
+  align-items: center;
+}
+
+tr .gol1,
+tr .gol2 {
+  font-size: 2.4rem;
+}
+
+.jogo input {
+  max-width: 3rem;
+  margin-left: 0;
+  border: 0.2rem solid #8ab99d;
+  text-align: center;
+}
+
+.editar {
+  background-color: #8ab99d;
+  border: none;
+  padding: 0.2em;
+  border-radius: 50%;
+  height: 2em;
+}
+
+.tableTimes {
+  margin-top: 4rem;
+  display: flex;
+  max-height: 630px;
+  flex-direction: column;
+  background:rgb(209, 183, 183);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+              0 2px 4px rgba(0,0,0,0.07), 
+              0 4px 8px rgba(0,0,0,0.07), 
+              0 8px 16px rgba(0,0,0,0.07),
+              0 16px 32px rgba(0,0,0,0.07), 
+			  0 32px 64px rgba(0,0,0,0.07);		  
+
+}
+
+
+thead button {
+  border: none;
+  background: none;
+  margin: 0.5rem;
+}
+
+thead {
+  background: rgb(138, 185, 157);
+  text-align: center;
+}
+
+tbody {
+	min-height: 5rem;
+	margin: 0.4rem;
+  }
+  
+th {
+	padding: 0.6rem;
+	color:blue;
+  }
+  
+td {
+	padding: 0.4rem;
+  }
+  
+
+
