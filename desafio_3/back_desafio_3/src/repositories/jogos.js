@@ -1,3 +1,5 @@
+//lidar com banco de dados
+
 const db = require ("../utils/database");
 
 const obterJogosRodada = async (rodada) => {
