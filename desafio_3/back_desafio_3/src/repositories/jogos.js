@@ -1,3 +1,12 @@
+//lidar com banco de dados
+//fazer correçoes aqui - calcular classif. 
+//Para o calculo do número de pontos a regra é a seguinte:
+//Para cada jogo vencido, o time vencedor ganha 3 pontos.
+//Para cada jogo empatado, cada time ganha 1 ponto.
+//Para cada jogo perdido, o time perdedor não ganha nenhum ponto.
+
+
+
 const db = require ("../utils/database");
 
 const obterJogosRodada = async (rodada) => {
