@@ -6,15 +6,12 @@
 
 Usamos commits semânticos: https://blog.cubos.io/que-tal-comecar-a-usar-commits-semanticos/
 
+---
+
 ## Plano de trabalho:
 
 ### Back - End
-
----
-
 **Endpoints**
-
----
 
 - [ ]  Montar a estrutura da aplicação
 
