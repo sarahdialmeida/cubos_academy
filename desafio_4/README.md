@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+## Desafio IV do Curso de Formação em Desenvolvimento Full Stack da Cubos Academy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Desenvolvido por [@RaquelRRios](https://github.com/RaquelRRio) e @sarahdialmeida
+#### Descrição do desafio: https://hackmd.io/5mNSNVWFQ9yscvQxG9Ep0A?view
+#### Figma: https://www.figma.com/file/92WTfz5HeKAGvEc5cZUGN1/Desafio-Cubos-Academy?node-id=1%3A407
 
-## Available Scripts
+Usamos commits semânticos: https://blog.cubos.io/que-tal-comecar-a-usar-commits-semanticos/
 
-In the project directory, you can run:
+## Plano de trabalho:
 
-### `npm start`
+### Back - End
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Endpoints**
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ ]  Montar a estrutura da aplicação
 
-### `npm run build`
+- [ ]  Login
+    - [ ]  Cadastro
+        - [ ]  Nome
+        - [ ]  Email
+        - [ ]  Senha
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+        - [ ]  Logar com email
+        - [ ]  Logar com senha
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+        - [ ]  logout
+        - [ ]  [EXTRA] Recuperar a senha caso esqueçam
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ ]  Criar usuário
+- [ ]  Criar cliente
+- [ ]  Editar cliente
+- [ ]  Listar clientes
+- [ ]  Buscar clientes
+- [ ]  Criar Cobrança
+- [ ]  Listar Cobranças
+- [ ]  Pagar Cobrança
+- [ ]  Obter Relatório
 
-### `npm run eject`
+### Frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [ ]  Login & Cadastro
+    - [ ]  Css
+    - [ ]  inserir nome
+    - [ ]  inserir email
+    - [ ]  inserir senha
+    - [ ]  logar inserindo email
+    - [ ]  logar inserindo senha
+    - [ ]  logout
+    - [ ]  Exibir erros adequados caso não haja sucesso em qualquer momento.
+    - [ ]  Extra: Recuperar a senha caso esqueçam
+- [ ]  Clientes
+    - [ ]  Css
+    - [ ]  Logados: cadastrar clientes inserindo:
+    - [ ]  nome
+    - [ ]  email
+    - [ ]  CPF
+    - [ ]  Celular
+    - [ ]  Extra: Endereço (CEP, rua, numero, complemento, cidade e estado)
+- [ ]  Cobranças
+    - [ ]  
+- [ ]  Home
+- [ ]  Responsividade
